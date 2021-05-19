@@ -27,7 +27,7 @@
 	],
 	"dependencies": {
 		"@konceiver/kv-file": "^1.2.0",
-		"bson": "^4.3.0",
+		"bson": "^4.4.0",
 		"fs-extra": "^10.0.0"
 	},
 	"devDependencies": {
