@@ -27,14 +27,14 @@
 	],
 	"dependencies": {
 		"@konceiver/kv-file": "^1.2.0",
-		"bson": "^4.4.0",
+		"bson": "^4.4.1",
 		"fs-extra": "^10.0.0"
 	},
 	"devDependencies": {
 		"@konceiver/kv-test-suite": "^1.0.0",
 		"@konceiver/tease": "^2.0.1",
-		"@types/bson": "^4.0.3",
-		"@types/fs-extra": "^9.0.11"
+		"@types/bson": "^4.0.4",
+		"@types/fs-extra": "^9.0.12"
 	},
 	"types": "dist/index"
 }
